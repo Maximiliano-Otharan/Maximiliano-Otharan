@@ -1,16 +1,17 @@
-### Hi there 👋
+### **Hello i am Maxi and welcome to my GitHub**😎👋
 
-<!--
-**Maximiliano-Otharan/Maximiliano-Otharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _About me_😁
+# My name complete is Maximiliano Leonel Otharan, i am a young developer (i am 22 years old) and study in the UNICEN the university technical in development of computer applications. I am studying the last 4 subjects of my degree program and I am doing projects on what i am learning day by day.
+I am currently looking for a developer job, specifically whit Angular, .Net or Spring Boot, Mysql or SQL Server.
 
-Here are some ideas to get you started:
+## _Tech skills_🤓
+# ***HTML | CSS | JavaScript | TypeScript | Angular | Java | Spring Boot | Php | C# | .Net | MySql | PostgreSQL | SQL Server | Postman | Xampp***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## _Version controller Git_
+# ***GitHub | GitLab***
+
+## _POO_ 
+## _MVC | API REST_
+
+## _Scrum_
+# *Jira*
