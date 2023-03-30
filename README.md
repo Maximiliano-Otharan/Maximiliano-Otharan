@@ -14,4 +14,3 @@ I am currently looking for a developer job, specifically whit Angular, .Net or S
 ## _MVC | API REST_
 
 ## _Scrum_
-### *Jira*
