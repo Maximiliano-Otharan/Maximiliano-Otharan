@@ -7,7 +7,7 @@
 ## _Tech skills_🤓
 ### ***HTML | CSS | JavaScript | TypeScript | Angular | Java | Spring Boot | Php | C# | .Net | MySql | PostgreSQL | SQL Server | Postman | Xampp***
 #
-## _Version controller Git_
+### _Version controller Git_
 ### ***GitHub | GitLab***
 #
 ### _POO_ 
